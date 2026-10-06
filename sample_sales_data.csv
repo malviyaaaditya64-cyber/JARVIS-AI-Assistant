@@ -1,0 +1,16 @@
+Date,Region,Product,Salesperson,Units_Sold,Unit_Price,Revenue
+2026-01-05,North,Laptop,Amit,12,55000,660000
+2026-01-08,South,Mobile,Priya,25,18000,450000
+2026-01-12,North,Tablet,Amit,8,22000,176000
+2026-01-15,East,Laptop,Rahul,15,55000,825000
+2026-01-18,West,Mobile,Sneha,30,18000,540000
+2026-01-22,South,Tablet,Priya,10,22000,220000
+2026-01-25,North,Mobile,Amit,20,18000,360000
+2026-01-28,East,Laptop,Rahul,18,55000,990000
+2026-02-02,West,Tablet,Sneha,12,22000,264000
+2026-02-05,South,Laptop,Priya,9,55000,495000
+2026-02-10,North,Mobile,Amit,22,18000,396000
+2026-02-14,East,Tablet,Rahul,14,22000,308000
+2026-02-18,West,Laptop,Sneha,16,55000,880000
+2026-02-22,South,Mobile,Priya,28,18000,504000
+2026-02-26,North,Laptop,Amit,11,55000,605000
